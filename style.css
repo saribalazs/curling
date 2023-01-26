@@ -1,0 +1,38 @@
+@media screen and (max-width: 600px) {
+    .container .element {
+      width: 100%;
+      padding: 16px;
+      text-align: center;
+    }
+  }
+
+
+body{
+  color:black;
+  background-image: url("hatter.jpg");
+  background-size: 110% 110%;
+  background-repeat: no-repeat;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.bal{
+  text-align: left;
+}
+.jobbra_igazit{
+  float: right;
+}
+
+.balra_igazit{
+  float: left;
+}
+
+.felso{
+  border-top: 100px black;
+}
+.oldalso{
+  border: 1px black;
+}
